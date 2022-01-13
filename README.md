@@ -1,2 +1,3 @@
 # planets
-learning the basics of github repositories
+A learning repository about planets.
+I sure love planets :D
